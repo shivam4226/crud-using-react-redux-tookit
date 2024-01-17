@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+#add user data image
+
+
+#update example image
+<img width="922" alt="image" src="https://github.com/shivam4226/crud-using-react-redux-tookit/assets/91675351/abbc96a4-425a-4e33-b918-b5c33e77d563">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
